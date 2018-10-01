@@ -1,0 +1,22 @@
+C:\Users\Ronald Flores\AppData\Local\Temporary Projects\Contable\bin\Debug\Contable.exe.config
+C:\Users\Ronald Flores\AppData\Local\Temporary Projects\Contable\bin\Debug\Contable.exe
+C:\Users\Ronald Flores\AppData\Local\Temporary Projects\Contable\bin\Debug\Contable.pdb
+C:\Users\Ronald Flores\AppData\Local\Temporary Projects\Contable\bin\Debug\Contable.xml
+C:\Users\Ronald Flores\AppData\Local\Temporary Projects\Contable\obj\Debug\Contable.Form1.resources
+C:\Users\Ronald Flores\AppData\Local\Temporary Projects\Contable\obj\Debug\Contable.Resources.resources
+C:\Users\Ronald Flores\AppData\Local\Temporary Projects\Contable\obj\Debug\Contable.vbproj.GenerateResource.Cache
+C:\Users\Ronald Flores\AppData\Local\Temporary Projects\Contable\obj\Debug\Contable.exe
+C:\Users\Ronald Flores\AppData\Local\Temporary Projects\Contable\obj\Debug\Contable.xml
+C:\Users\Ronald Flores\AppData\Local\Temporary Projects\Contable\obj\Debug\Contable.pdb
+C:\Users\Ronald Flores\AppData\Local\Temporary Projects\Contable\obj\Debug\Contable.Catalogo.resources
+C:\Users\Ronald Flores\Documents\Visual Studio 2012\Projects\Contable\Contable\bin\Debug\Contable.exe.config
+C:\Users\Ronald Flores\Documents\Visual Studio 2012\Projects\Contable\Contable\obj\Debug\Contable.exe
+C:\Users\Ronald Flores\Documents\Visual Studio 2012\Projects\Contable\Contable\obj\Debug\Contable.xml
+C:\Users\Ronald Flores\Documents\Visual Studio 2012\Projects\Contable\Contable\obj\Debug\Contable.pdb
+C:\Users\Ronald Flores\Documents\Visual Studio 2012\Projects\Contable\Contable\bin\Debug\Contable.exe
+C:\Users\Ronald Flores\Documents\Visual Studio 2012\Projects\Contable\Contable\bin\Debug\Contable.pdb
+C:\Users\Ronald Flores\Documents\Visual Studio 2012\Projects\Contable\Contable\bin\Debug\Contable.xml
+C:\Users\Ronald Flores\Documents\Visual Studio 2012\Projects\Contable\Contable\obj\Debug\Contable.Catalogo.resources
+C:\Users\Ronald Flores\Documents\Visual Studio 2012\Projects\Contable\Contable\obj\Debug\Contable.Form1.resources
+C:\Users\Ronald Flores\Documents\Visual Studio 2012\Projects\Contable\Contable\obj\Debug\Contable.Resources.resources
+C:\Users\Ronald Flores\Documents\Visual Studio 2012\Projects\Contable\Contable\obj\Debug\Contable.vbproj.GenerateResource.Cache
